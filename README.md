@@ -1,44 +1,19 @@
-# Ibrahim's GitHub Profile
+# Hi, I'm Ibrahim
 
----
+I'm a developer who enjoys building practical and meaningful software solutions. I work with modern web technologies and love to explore clean code, good architecture, and continuous learning.
 
-Hello! I'm Ibrahim, a programmer. This is where I store my code.
+## What I Do
 
-## About Me
+- Web development with JavaScript, React, and Node.js
+- Learning and applying Data Structures & Algorithms
+- Creating small tools, utilities, and open-source projects
 
----
+## Current Focus
 
-I focus on writing functional and clean code. My work primarily involves:
+- Improving my problem-solving skills
+- Contributing to open-source
+- Building real-world projects to sharpen my skills
 
-* [List your primary programming language/area, e.g., Python Development]
-* [Add another programming language/area]
-* [Add another programming language/area]
+## Connect
 
-## Technologies
-
----
-
-These are the tools and languages I commonly use:
-
-* [List a technology, e.g., Python]
-* [List another technology, e.g., SQL]
-* [List a tool, e.g., Git]
-* [List another tool, e.g., VS Code]
-
-## Projects
-
----
-
-My repositories contain various coding projects. Feel free to browse.
-
-## Contact
-
----
-
-You can reach me via:
-
-* **Email:** [Your Email Address]
-
----
-
-Thanks for visiting.
+Feel free to explore my repositories. If you find something useful or interesting, you're welcome to contribute or get in touch.
